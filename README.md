@@ -57,5 +57,5 @@ INSERT INTO transacoes (conta_id, tipo_transacao, valor) VALUES
     (3, 'Depósito', 200.00),
     (1, 'Transferência', -300.00),
     (2, 'Transferência', -1000.00),
-    (3, 'Saque', 50.00);```
+    (3, 'Saque', 50.00);
 ```
